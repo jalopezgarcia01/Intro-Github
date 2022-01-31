@@ -11,4 +11,4 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 ![hack](img/descarga.png)
 
 
-![hack](img/sfwit.png)
+![hack](img/sfwit.png.png)
