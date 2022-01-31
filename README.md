@@ -8,7 +8,7 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 
 ### Se inserta imagen de bienvenida de curso 
 
-**Información de bienvenida a bootcamp en desarrollo de software
+**Información de bienvenida a bootcamp en desarrollo de software**
 
 ![hack](img/descarga.png)
 
