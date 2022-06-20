@@ -9,3 +9,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 ### Insertaremos una imagen
 
 ![hack](img/descarga.png)
+
+### Aportación de Marianne
+Me encantó la charla, algo que me ayudó a reforzar y profundizar en el Github fue la documentación, aquí se las dejo: [documentación](https://docs.github.com/en/repositories)
+
+
